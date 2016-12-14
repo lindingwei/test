@@ -1,1 +1,0 @@
-test wher the path that th git add command can do its work
